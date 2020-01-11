@@ -4,4 +4,4 @@ Projects created in the context of the Course-Bootcamp as a way to learn and pra
 
 ### Cofee and Cake (site2)
 
-Mini project to learn how to work with the folder structure of a website.
+Mini project to practice working with the folder structure of a website.
