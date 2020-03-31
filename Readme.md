@@ -5,3 +5,7 @@ Projects created in the context of the Course-Bootcamp as a way to learn and pra
 ### Coffee and Cake (site2)
 
 Mini project to practice working with the folder structure of a website.
+
+### Gotham project 
+
+Mini project (static blog) to practice working with CSS.
